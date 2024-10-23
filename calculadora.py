@@ -5,6 +5,6 @@ op = input("Escribe un + o - para hacer la operacion")
 if op == '-':
     res = num1-num2
 elif op == '+':
-    res = num1-num2
+    res = num1+num2
 
 print(f"Tu Resultado fue: {res}")
